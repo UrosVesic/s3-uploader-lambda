@@ -1,0 +1,11 @@
+{
+  "httpMethod": "POST",
+  "requestContext": {
+    "authorizer": {
+      "claims": {
+        "sub": "11111111-2222-3333-4444-555555555555"
+      }
+    }
+  },
+  "body": "{\"image\":\"datg;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNk+A8AAQUBAScY42YAAAAASUVORK5CYII=\"}"
+}
